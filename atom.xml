@@ -5,9 +5,9 @@
   <subtitle>ooxx</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://github.com/zR-Zr/zR-Zr.github.io.git/"/>
-  <updated>2018-01-30T09:51:30.960Z</updated>
-  <id>https://github.com/zR-Zr/zR-Zr.github.io.git/</id>
+  <link href="https://raw.githubusercontent.com/zR-Zr/zR-Zr.github.io/master/"/>
+  <updated>2018-01-30T10:00:04.695Z</updated>
+  <id>https://raw.githubusercontent.com/zR-Zr/zR-Zr.github.io/master/</id>
   
   <author>
     <name>zR</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title> my Second  Blog</title>
-    <link href="https://github.com/zR-Zr/zR-Zr.github.io.git/2018/01/30/my-Second-Blog/"/>
-    <id>https://github.com/zR-Zr/zR-Zr.github.io.git/2018/01/30/my-Second-Blog/</id>
+    <link href="https://raw.githubusercontent.com/zR-Zr/zR-Zr.github.io/master/2018/01/30/my-Second-Blog/"/>
+    <id>https://raw.githubusercontent.com/zR-Zr/zR-Zr.github.io/master/2018/01/30/my-Second-Blog/</id>
     <published>2018-01-30T09:48:59.000Z</published>
-    <updated>2018-01-30T09:51:30.960Z</updated>
+    <updated>2018-01-30T10:00:04.695Z</updated>
     
     <content type="html"><![CDATA[<p>测试<br><img src="/zR-Zr/zR-Zr.github.io.git/2018/01/30/my-Second-Blog/Ss.png" alt=""></p>]]></content>
     
@@ -40,8 +40,8 @@
   
   <entry>
     <title>zR</title>
-    <link href="https://github.com/zR-Zr/zR-Zr.github.io.git/2018/01/24/hello-world/"/>
-    <id>https://github.com/zR-Zr/zR-Zr.github.io.git/2018/01/24/hello-world/</id>
+    <link href="https://raw.githubusercontent.com/zR-Zr/zR-Zr.github.io/master/2018/01/24/hello-world/"/>
+    <id>https://raw.githubusercontent.com/zR-Zr/zR-Zr.github.io/master/2018/01/24/hello-world/</id>
     <published>2018-01-24T03:44:40.496Z</published>
     <updated>2018-01-30T08:41:17.271Z</updated>
     
