@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>zRCoder</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://github.com/zR-Zr/zR-Zr.github.io.git/"/>
+  <updated>2018-01-30T09:33:32.808Z</updated>
+  <id>https://github.com/zR-Zr/zR-Zr.github.io.git/</id>
+  
+  <author>
+    <name>zR</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第二个测试博客</title>
+    <link href="https://github.com/zR-Zr/zR-Zr.github.io.git/2018/01/30/%E7%AC%AC%E4%BA%8C%E4%B8%AA%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://github.com/zR-Zr/zR-Zr.github.io.git/2018/01/30/第二个测试博客/</id>
+    <published>2018-01-30T09:26:33.000Z</published>
+    <updated>2018-01-30T09:33:32.808Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="第二个测试博客"><a href="#第二个测试博客" class="headerlink" title="第二个测试博客"></a>第二个测试博客</h2><p><img src="/zR-Zr/zR-Zr.github.io.git/2018/01/30/第二个测试博客/demo.png" alt="说明文字"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;第二个测试博客&quot;&gt;&lt;a href=&quot;#第二个测试博客&quot; class=&quot;headerlink&quot; title=&quot;第二个测试博客&quot;&gt;&lt;/a&gt;第二个测试博客&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/zR-Zr/zR-Zr.github.io.git/2018/01/30/第二
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试博客</title>
+    <link href="https://github.com/zR-Zr/zR-Zr.github.io.git/2018/01/30/%E6%B5%8B%E8%AF%95%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://github.com/zR-Zr/zR-Zr.github.io.git/2018/01/30/测试博客/</id>
+    <published>2018-01-30T09:12:50.000Z</published>
+    <updated>2018-01-30T09:21:46.704Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="测试一下"><a href="#测试一下" class="headerlink" title="测试一下"></a>测试一下</h2><p><img src="../../img/Demo/img.png" alt="Alt text"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;测试一下&quot;&gt;&lt;a href=&quot;#测试一下&quot; class=&quot;headerlink&quot; title=&quot;测试一下&quot;&gt;&lt;/a&gt;测试一下&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;../../img/Demo/img.png&quot; alt=&quot;Alt text&quot;&gt;&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Demo</title>
+    <link href="https://github.com/zR-Zr/zR-Zr.github.io.git/2018/01/30/demo/"/>
+    <id>https://github.com/zR-Zr/zR-Zr.github.io.git/2018/01/30/demo/</id>
+    <published>2018-01-30T09:01:17.599Z</published>
+    <updated>2018-01-30T09:09:24.064Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="title1"><a href="#title1" class="headerlink" title="title1"></a>title1</h2><pre><code>- content- content2- content3</code></pre><h2 id="title2"><a href="#title2" class="headerlink" title="title2"></a>title2</h2><pre><code>- content_2_1- content_2_2</code></pre><p><img src="media/IDR_THEME_NTP_BACKGROUND.png" alt="IDR_THEME_NTP_BACKGROUND"></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;title1&quot;&gt;&lt;a href=&quot;#title1&quot; class=&quot;headerlink&quot; title=&quot;title1&quot;&gt;&lt;/a&gt;title1&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;- content
+- content2
+- content3
+&lt;/code&gt;&lt;/pre&gt;&lt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>zR</title>
+    <link href="https://github.com/zR-Zr/zR-Zr.github.io.git/2018/01/24/hello-world/"/>
+    <id>https://github.com/zR-Zr/zR-Zr.github.io.git/2018/01/24/hello-world/</id>
+    <published>2018-01-24T03:44:40.496Z</published>
+    <updated>2018-01-30T08:41:17.271Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 饭萌18_01_30_1</span><br></pre></td></tr></table></figure><p><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_18_01_30_1_my.plist" target="_blank" rel="external">码云下载</a><br><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_18_01_30_1_qn.plist" target="_blank" rel="external">七牛下载</a></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 饭萌18_01_29_3</span><br></pre></td></tr></table></figure><p><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_18_01_29_3my.plist" target="_blank" rel="external">码云下载</a><br><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_18_01_29_3qn.plist" target="_blank" rel="external">七牛下载</a></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 饭萌18_01_29_2</span><br></pre></td></tr></table></figure><p><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_18_01_29_2my.plist" target="_blank" rel="external">码云下载</a><br><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_18_01_29_2qn.plist" target="_blank" rel="external">七牛下载</a></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 饭萌18_01_29</span><br></pre></td></tr></table></figure><p><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_18_01_29_my.plist" target="_blank" rel="external">码云下载</a><br><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_18_01_29_qn.plist" target="_blank" rel="external">七牛下载</a></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 饭萌18_1_27</span><br></pre></td></tr></table></figure><p><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_18_1_27_my.plist" target="_blank" rel="external">码云下载</a><br><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_18_1_27_qn.plist" target="_blank" rel="external">七牛下载</a></p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ 饭萌18_1_24</span><br></pre></td></tr></table></figure><p><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_18_1_24_my.plist" target="_blank" rel="external">码云下载</a><br><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_18_1_24_qn.plist" target="_blank" rel="external">七牛下载</a><br><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ FM测试版</span><br></pre></td></tr></table></figure></p><p><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_my.plist" target="_blank" rel="external">码云下载</a></p><p><a href="itms-services://?action=download-manifest&amp;url=https://gitee.com/zRCoder/FMTest/raw/master/manifest_qn.plist" target="_blank" rel="external">七牛下载</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span clas
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
